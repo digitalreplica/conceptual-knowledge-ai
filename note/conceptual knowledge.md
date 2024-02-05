@@ -1,17 +1,17 @@
 ---
 is:
-  - "[[note]]"
+  - "[[0af640bc-2938-49e9-bd5f-840333befe25|note]]"
 of:
-  - "[[concept]]"
+  - "[[80cfa0a0-99db-4643-9633-1e7f9de0ab30|concept]]"
 ---
 # Introduction
 
-Knowledge is a complex thing, built on millions of individual concepts, most of which mean different things to different people. Conceptual knowledge is a set of building blocks to stitch those concepts together into a cohesive whole. It starts with a fundamental [[concept]], then uses [[relationship]](s) to define other concepts and how they interrelate. The result is a tree-based knowledge structure that models each person's individual way of thinking, while allowing comparisons by both humans and computers.
+Knowledge is a complex thing, built on millions of individual concepts, most of which mean different things to different people. Conceptual knowledge is a set of building blocks to stitch those concepts together into a cohesive whole. It starts with a fundamental [[80cfa0a0-99db-4643-9633-1e7f9de0ab30|concept]], then uses [[relationship]](s) to define other concepts and how they interrelate. The result is a tree-based knowledge structure that models each person's individual way of thinking, while allowing comparisons by both humans and computers.
 
 **Concepts + relationships = knowledge**
 
 ## Concept
-Most [[concept|concepts]] are so ingrained in our brains that its actually quite hard to define them. Conceptual knowledge defines concepts by linking out to external sources of truth that can be followed if needed. So the simplest way to define a concept is:
+Most [[conceptual-knowledge-ai/en/concept/80cfa0a0-99db-4643-9633-1e7f9de0ab30|concepts]] are so ingrained in our brains that its actually quite hard to define them. Conceptual knowledge defines concepts by linking out to external sources of truth that can be followed if needed. So the simplest way to define a concept is:
 
 **concept**
 ```
@@ -26,7 +26,7 @@ Relationships are ways of linking concepts together into a larger knowledge stru
 Relationships also link your knowledge structure to the vast amount of knowledge humanity has already collected. Like with the definition of concept, it creates an internal concept in your knowledge structure by linking it to a external resource. That's the shortcut that allows complex structures to be created quickly, while allowing different structures to be compared.
 
 ### Is
-The word [[is]] has several different meanings, but conceptual knowledge always uses it with the meaning,  "`_____ is a _____`". For example, color is a concept, and red is a color.
+The word [[7bbc6874-29d6-4c67-be58-3be81c862ece|is]] has several different meanings, but conceptual knowledge always uses it with the meaning,  "`_____ is a _____`". For example, color is a concept, and red is a color.
 
 ``` mermaid
 flowchart LR
